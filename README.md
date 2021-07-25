@@ -11,7 +11,7 @@
 </ul>
 
 <h2>💻 Sobre os projetos: </h2>
-<p>Esses projetos foram desenvolvidos com o objetivo de alcançar um ganho de conhecimento de diversos temas em computação gráfica, cada projeto foi desenvolvido em grupo de duas pessoas. A maioria dos projetos envolve atividades com esferas, triângulos, toros, álgebra linear e comparação entre fórmulas geométricas.</p>
+<p>Esses projetos foram desenvolvidos com o objetivo de alcançar um ganho de conhecimento de diversos temas em computação gráfica, cada projeto foi desenvolvido em grupo de duas pessoas. A maioria dos projetos envolvem atividades com esferas, triângulos, toros, álgebra linear e comparação entre fórmulas geométricas.</p>
 
 <h2>📝 Nomes dos projetos: </h2>
 <ul>
