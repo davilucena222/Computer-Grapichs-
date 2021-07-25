@@ -16,9 +16,6 @@
 <h2>📝 Project Names:</h2>
 <ul>
   <li>
-    Atividade 0
-  </li>
-  <li>
     Atividade 1
   </li>
   <li>
