@@ -16,18 +16,18 @@
 <h2>📝 Project Names:</h2>
 <ul>
   <li>
-    Atividade 1
+    Activity 1
   </li>
   <li>
-    Atividade 2
+    Activity 2
   </li>
   <li>
-    Atividade 3
+    Activity 3
   </li>
   <li>
-    Atividade 4
+    Activity 4
   </li>
   <li>
-    Atividade 5
+    Activity 5
   </li>
 </ul>
